@@ -10,7 +10,7 @@ Bu repo, **GOIT Full Stack & QA Tester İş Birliği Programı** kapsamında yü
 
 **Ekip:**
 
-- 👨‍💻 Full Stack Developer: Kutluhan …
+- 👨‍💻 Full Stack Developer: Kutluhan Gül
 - 🧪 QA Tester: Merve Gönbe
 
 
