@@ -61,8 +61,8 @@ Kritik kullanıcı senaryoları Cypress kullanılarak otomasyona taşınmıştı
 
 ---
 
-## Proje Notu
+
 
 Bu proje GOIT Full Stack & QA Tester İş Birliği Programı kapsamında yürütülmüştür.
 
-Developer ekibiyle yürütülen feedback süreçleri, hata yönetimi, test planlama ve cross-functional çalışma deneyimi proje sürecinin temel kazanımları arasında yer almıştır.
+Developer ekibiyle kurduğumuz feedback döngüsü ve cross-functional çalışma deneyimi bu sürecin en değerli kazanımı olmuştur.
