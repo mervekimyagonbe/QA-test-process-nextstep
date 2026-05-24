@@ -44,6 +44,9 @@ Kritik senaryolar Cypress kullanılarak otomasyona taşınmıştır.
 * Mocha Awesome Report → [Link]
 
 ⸻
+# 📊 Test Report
+
+[Mochawesome Report](./cypress/reports/mochawesome.html)
 
 
 
